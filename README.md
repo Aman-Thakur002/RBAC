@@ -24,11 +24,11 @@ npm install
 ```
 **Step 4: Update Environment Variables**
 Add the following key in the .env file:
-env
+combine this otp string (it is separated because of 3rd party policy)
 ```bash
 OTP_API_KEY="SG.oFe" , "C5wPiQ7O6hsAKFqRaMA.HBr2OSyq8HP61ABOgeRaYAWL4UKqgcerirhqYD22tnU"
 ```
-combine this otp string (it is separated because of 3rd party policy)
+
 **Step 5: Run Migrations and set up admin**
 Run the following command to set up the database schema:
 ```bash
