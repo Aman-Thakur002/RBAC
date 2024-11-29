@@ -1,0 +1,33 @@
+{
+	"leadValidation": {
+		"email": {
+			"required": "Email is required.",
+			"valid": "Please provide a valid email address."
+		},
+		"phone": {
+			"required": "Phone number is required."
+		}
+	},
+	"uservalidation": {
+		"password": {
+			"required": "Password is required.",
+			"isValid": "Password must meet the required criteria."
+		}
+	},
+	"auth": {
+		"notAuthorized": "You are not authorized to access this resource.",
+		"serverError": "An unexpected error occurred. Please try again later.",
+		"tokenInvalid": "The provided token is invalid.",
+		"userInvalid": "The user associated with this token is invalid.",
+		"invalidToken": "The provided token is invalid."
+	},
+	"phoneNotformet": "The phone number format is invalid.",
+	"users": {
+		"userCreate": "User created successfully.",
+		"wrongPassword": "The password you entered is incorrect.",
+		"login": "Login successful.",
+		"mailNotVerified": "Your email address is not verified. Check your mail to verify with Otp",
+		"verify": "users.verify"
+	},
+	"denied": "Access denied"
+}
