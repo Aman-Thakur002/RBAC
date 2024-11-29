@@ -15,7 +15,7 @@ Install Node.js if not already installed.
 
 **Step 2: Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/Aman-Thakur002/RBAC
 cd <repository-name>
 ```
 **Step 3: Install Dependencies**
